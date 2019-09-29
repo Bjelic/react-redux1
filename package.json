@@ -41,6 +41,7 @@
 	"main": "server.js",
 	"devDependencies": {
 		"concurrently": "^4.1.2",
+		"gh-pages": "^2.1.1",
 		"nodemon": "^1.19.2"
 	},
 	"repository": {
